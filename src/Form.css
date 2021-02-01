@@ -1,0 +1,29 @@
+.form > form {
+  display: flex;
+  flex-direction: column;
+  padding: 0px 15px;
+}
+
+.form > form input {
+  margin: 10px 0px;
+  background: rgb(198, 206, 198);
+  height: 20px;
+  color: red;
+  font-weight: 600;
+  outline-width: 0;
+  padding: 3px 2px;
+}
+
+.form > form button {
+  background: rgb(44, 83, 44);
+  color: white;
+  padding: 5px 0px;
+  margin-top: 20px;
+  outline-width: 0;
+  height: 40px;
+  font-size: 18px;
+}
+
+.form > form button:hover {
+  background: blue;
+}

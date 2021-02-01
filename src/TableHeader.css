@@ -1,0 +1,9 @@
+.tableHeader > tr {
+  display: flex;
+  justify-content: center;
+  color: white;
+}
+
+.tableHeader > tr > th {
+  margin: 10px;
+}

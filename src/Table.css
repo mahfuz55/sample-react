@@ -1,0 +1,10 @@
+.table {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  width: 100vw;
+  background: rgb(25, 134, 96);
+  margin: 0px 10px 50px 0px;
+  padding: 10px;
+}
